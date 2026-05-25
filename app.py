@@ -14,12 +14,35 @@ st.markdown("---")
 tickers = {
     "📈 台股與美股 ETF": {
         "凱基台灣優選高股息 (009816)": "009816.TW",
-        "嘉信美國大型成長股 ETF (SCHG)": "SCHG"
+        "嘉信美國大型成長股 ETF (SCHG)": "SCHG",
+        "富邦台50 (006208)": "006208.TW",
+        "國泰永續高股息 (00878)": "00878.TW",
+        "元大高股息 (0056)": "0056.TW",
+        "00403A": "00403A.TW",
+        "VanEck Morningstar Wide Moat ETF": "MOAT"
     },
     "🪙 加密貨幣": {
         "RENDER": "RNDR-USD",
         "Chainlink": "LINK-USD",
-        "Akash Network": "AKT-USD"
+        "Akash Network": "AKT-USD",
+        "Bitcoin": "BTC-USD",
+        "Ethereum": "ETH-USD",
+        "Cardano": "ADA-USD"
+    },
+    "🔥 焦點個股": {  
+        "華航 (2610)": "2610.TW",
+        "台積電 (2330)": "2330.TW",
+        "聯發科 (2454)": "2454.TW",
+        "鴻海 (2317)": "2317.TW",
+        "長榮航空 (2618)": "2618.TW"
+        "NVIDIA": "NVDA",
+        "Microsoft" : "MSFT",
+    }
+    "🛡️ 避險指標": {
+        "黃金期貨 (Gold)": "GC=F",
+        "恐慌指數 (VIX)": "^VIX",
+        "美國10年期公債殖利率": "^TNX",
+        "中華電信 (2412)": "2412.TW"
     }
 }
 
