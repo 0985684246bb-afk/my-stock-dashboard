@@ -37,7 +37,7 @@ tickers = {
         "長榮航空 (2618)": "2618.TW",
         "NVIDIA": "NVDA",
         "Microsoft" : "MSFT",
-    }
+    },
     "🛡️ 避險指標": {
         "黃金期貨 (Gold)": "GC=F",
         "恐慌指數 (VIX)": "^VIX",
